@@ -12,14 +12,13 @@ The submission must adhere to the formatting in the submission templates, which 
 
 ### Common problems to avoid/Submission Requirements:
 1. *Report FileName* should be in format (please ensure your pdf name is an exact match of the project title): *Name_of_project_from_slides.pdf*
-2. The Paper title is upto the participants. This is the heading/paper title assigned in the content of the pdf.
-3. Submission format must be ACL pdf (even non-anonymized is okay)
-4. Two column report.
-5. References must be inserted whenever a method is utilized in the results section.
-6. Paper must have atleast the following - Abstract, Introduction, Related Work, Methodology, Results, Future Work (other sections - Dataset, Analysis, Conclusion, Discussions)
-7. Paper length must not exceed 6 pages!! (There is no minimum limit)
-8. GitHub repo must be linked in a footnote on the first page.
-9. If you use latex, you can optionally upload the .zip project file.
+2. Submission format must be ACL pdf.
+3. The Paper title is upto the participants. This is the heading/paper title assigned in the content of the pdf.
+4. References must be inserted whenever a method is utilized in the results section.
+5. Paper must have atleast the following - Abstract, Introduction, Related Work, Methodology, Results, Future Work (other sections - Dataset, Analysis, Conclusion, Discussions)
+6. Paper length must not exceed 4 pages!! (There is no minimum limit)
+7. GitHub repo must be linked in a footnote on the first page.
+8. If you use latex, you can optionally upload the .zip project file.
 
 Submissions will also be rejected if they do not adhere to the reviewing schedule and guidelines:
 
